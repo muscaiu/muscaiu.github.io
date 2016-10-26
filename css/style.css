@@ -10,3 +10,6 @@
     maximum-width:100% !important;
     maximum-height:100% !important;
 }
+ion-content{
+    background: url('../img/mdbackground2.jpg') center / cover;
+}
